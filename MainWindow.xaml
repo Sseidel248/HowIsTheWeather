@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HowsTheWeather"
         mc:Ignorable="d"
-        Title="MainWindow" Height="512" Width="1024" 
+        Title="How is the Weather" Height="512" Width="1024" 
         ResizeMode="NoResize">
     <Window.Resources>
         <Style x:Key="FocusVisual">
